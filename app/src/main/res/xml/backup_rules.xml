@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+DÜZELTME: Android 11 ve altı (eski) tam yedekleme (Auto Backup) sistemi
+için de aynı hariç tutma kuralı. data_extraction_rules.xml sadece
+Android 12+ için geçerlidir; eski sürümler bu dosyayı kullanır.
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="EzanVaktiPrefs.xml" />
+</full-backup-content>

@@ -1,0 +1,1407 @@
+[
+  {
+    "ilAdi": "Adana",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9122" },
+      { "ilceAdi": "Aladağ", "diyanetKodu": "9111" },
+      { "ilceAdi": "Ceyhan", "diyanetKodu": "9112" },
+      { "ilceAdi": "Çukurova", "diyanetKodu": "9113" },
+      { "ilceAdi": "Feke", "diyanetKodu": "9114" },
+      { "ilceAdi": "İmamoğlu", "diyanetKodu": "9115" },
+      { "ilceAdi": "Karaisalı", "diyanetKodu": "9116" },
+      { "ilceAdi": "Karataş", "diyanetKodu": "9117" },
+      { "ilceAdi": "Kozan", "diyanetKodu": "9118" },
+      { "ilceAdi": "Pozantı", "diyanetKodu": "9119" },
+      { "ilceAdi": "Saimbeyli", "diyanetKodu": "9120" },
+      { "ilceAdi": "Sarıçam", "diyanetKodu": "9121" },
+      { "ilceAdi": "Seyhan", "diyanetKodu": "9122" },
+      { "ilceAdi": "Tufanbeyli", "diyanetKodu": "9123" },
+      { "ilceAdi": "Yumurtalık", "diyanetKodu": "9124" },
+      { "ilceAdi": "Yüreğir", "diyanetKodu": "9125" }
+    ]
+  },
+  {
+    "ilAdi": "Adıyaman",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9057" },
+      { "ilceAdi": "Besni", "diyanetKodu": "9050" },
+      { "ilceAdi": "Çelikhan", "diyanetKodu": "9051" },
+      { "ilceAdi": "Gerger", "diyanetKodu": "9052" },
+      { "ilceAdi": "Gölbaşı", "diyanetKodu": "9053" },
+      { "ilceAdi": "Kâhta", "diyanetKodu": "9054" },
+      { "ilceAdi": "Samsat", "diyanetKodu": "9055" },
+      { "ilceAdi": "Sincik", "diyanetKodu": "9056" },
+      { "ilceAdi": "Tut", "diyanetKodu": "9058" }
+    ]
+  },
+  {
+    "ilAdi": "Afyonkarahisar",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9102" },
+      { "ilceAdi": "Başmakçı", "diyanetKodu": "9089" },
+      { "ilceAdi": "Bayat", "diyanetKodu": "9090" },
+      { "ilceAdi": "Bolvadin", "diyanetKodu": "9091" },
+      { "ilceAdi": "Çay", "diyanetKodu": "9092" },
+      { "ilceAdi": "Çobanlar", "diyanetKodu": "9093" },
+      { "ilceAdi": "Dazkırı", "diyanetKodu": "9094" },
+      { "ilceAdi": "Dinar", "diyanetKodu": "9095" },
+      { "ilceAdi": "Emirdağ", "diyanetKodu": "9096" },
+      { "ilceAdi": "Evciler", "diyanetKodu": "9097" },
+      { "ilceAdi": "Hocalar", "diyanetKodu": "9098" },
+      { "ilceAdi": "İhsaniye", "diyanetKodu": "9099" },
+      { "ilceAdi": "İscehisar", "diyanetKodu": "9100" },
+      { "ilceAdi": "Kızılören", "diyanetKodu": "9101" },
+      { "ilceAdi": "Sandıklı", "diyanetKodu": "9103" },
+      { "ilceAdi": "Sinanpaşa", "diyanetKodu": "9104" },
+      { "ilceAdi": "Sultandağı", "diyanetKodu": "9105" },
+      { "ilceAdi": "Şuhut", "diyanetKodu": "9106" }
+    ]
+  },
+  {
+    "ilAdi": "Ağrı",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9158" },
+      { "ilceAdi": "Diyadin", "diyanetKodu": "9153" },
+      { "ilceAdi": "Doğubayazıt", "diyanetKodu": "9154" },
+      { "ilceAdi": "Eleşkirt", "diyanetKodu": "9155" },
+      { "ilceAdi": "Hamur", "diyanetKodu": "9156" },
+      { "ilceAdi": "Patnos", "diyanetKodu": "9157" },
+      { "ilceAdi": "Taşlıçay", "diyanetKodu": "9159" },
+      { "ilceAdi": "Tutak", "diyanetKodu": "9160" }
+    ]
+  },
+  {
+    "ilAdi": "Aksaray",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9541" },
+      { "ilceAdi": "Ağaçören", "diyanetKodu": "9536" },
+      { "ilceAdi": "Eskil", "diyanetKodu": "9537" },
+      { "ilceAdi": "Gülağaç", "diyanetKodu": "9538" },
+      { "ilceAdi": "Güzelyurt", "diyanetKodu": "9539" },
+      { "ilceAdi": "Ortaköy", "diyanetKodu": "9540" },
+      { "ilceAdi": "Sarıyahşi", "diyanetKodu": "9542" },
+      { "ilceAdi": "Sultanhanı", "diyanetKodu": "18882" }
+    ]
+  },
+  {
+    "ilAdi": "Amasya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9207" },
+      { "ilceAdi": "Göynücek", "diyanetKodu": "9203" },
+      { "ilceAdi": "Gümüşhacıköy", "diyanetKodu": "9204" },
+      { "ilceAdi": "Hamamözü", "diyanetKodu": "9205" },
+      { "ilceAdi": "Merzifon", "diyanetKodu": "9206" },
+      { "ilceAdi": "Suluova", "diyanetKodu": "9208" },
+      { "ilceAdi": "Taşova", "diyanetKodu": "9209" }
+    ]
+  },
+  {
+    "ilAdi": "Ankara",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9256" },
+      { "ilceAdi": "Akyurt", "diyanetKodu": "9239" },
+      { "ilceAdi": "Altındağ", "diyanetKodu": "9240" },
+      { "ilceAdi": "Ayaş", "diyanetKodu": "9241" },
+      { "ilceAdi": "Bala", "diyanetKodu": "9242" },
+      { "ilceAdi": "Beypazarı", "diyanetKodu": "9243" },
+      { "ilceAdi": "Çamlıdere", "diyanetKodu": "9244" },
+      { "ilceAdi": "Çankaya", "diyanetKodu": "9245" },
+      { "ilceAdi": "Çubuk", "diyanetKodu": "9246" },
+      { "ilceAdi": "Elmadağ", "diyanetKodu": "9247" },
+      { "ilceAdi": "Etimesgut", "diyanetKodu": "9248" },
+      { "ilceAdi": "Evren", "diyanetKodu": "9249" },
+      { "ilceAdi": "Gölbaşı", "diyanetKodu": "9250" },
+      { "ilceAdi": "Güdül", "diyanetKodu": "9251" },
+      { "ilceAdi": "Haymana", "diyanetKodu": "9252" },
+      { "ilceAdi": "Kahramankazan", "diyanetKodu": "9253" },
+      { "ilceAdi": "Kalecik", "diyanetKodu": "9254" },
+      { "ilceAdi": "Keçiören", "diyanetKodu": "9255" },
+      { "ilceAdi": "Kızılcahamam", "diyanetKodu": "9257" },
+      { "ilceAdi": "Mamak", "diyanetKodu": "9258" },
+      { "ilceAdi": "Nallıhan", "diyanetKodu": "9259" },
+      { "ilceAdi": "Polatlı", "diyanetKodu": "9260" },
+      { "ilceAdi": "Pursaklar", "diyanetKodu": "9261" },
+      { "ilceAdi": "Sincan", "diyanetKodu": "9262" },
+      { "ilceAdi": "Şereflikoçhisar", "diyanetKodu": "9263" },
+      { "ilceAdi": "Yenimahalle", "diyanetKodu": "9264" }
+    ]
+  },
+  {
+    "ilAdi": "Antalya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9390" },
+      { "ilceAdi": "Akseki", "diyanetKodu": "9375" },
+      { "ilceAdi": "Aksu", "diyanetKodu": "9376" },
+      { "ilceAdi": "Alanya", "diyanetKodu": "9377" },
+      { "ilceAdi": "Demre", "diyanetKodu": "9378" },
+      { "ilceAdi": "Döşemealtı", "diyanetKodu": "9379" },
+      { "ilceAdi": "Elmalı", "diyanetKodu": "9380" },
+      { "ilceAdi": "Finike", "diyanetKodu": "9381" },
+      { "ilceAdi": "Gazipaşa", "diyanetKodu": "9382" },
+      { "ilceAdi": "Gündoğmuş", "diyanetKodu": "9383" },
+      { "ilceAdi": "İbradı", "diyanetKodu": "9384" },
+      { "ilceAdi": "Kaş", "diyanetKodu": "9385" },
+      { "ilceAdi": "Kemer", "diyanetKodu": "9386" },
+      { "ilceAdi": "Kepez", "diyanetKodu": "9387" },
+      { "ilceAdi": "Konyaaltı", "diyanetKodu": "9388" },
+      { "ilceAdi": "Korkuteli", "diyanetKodu": "9389" },
+      { "ilceAdi": "Kumluca", "diyanetKodu": "9391" },
+      { "ilceAdi": "Manavgat", "diyanetKodu": "9392" },
+      { "ilceAdi": "Muratpaşa", "diyanetKodu": "9393" },
+      { "ilceAdi": "Serik", "diyanetKodu": "9394" }
+    ]
+  },
+    {
+      "ilAdi": "Ardahan",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9189" },
+        { "ilceAdi": "Çıldır", "diyanetKodu": "9184" },
+        { "ilceAdi": "Damal", "diyanetKodu": "9185" },
+        { "ilceAdi": "Göle", "diyanetKodu": "9186" },
+        { "ilceAdi": "Hanak", "diyanetKodu": "9187" },
+        { "ilceAdi": "Posof", "diyanetKodu": "9188" }
+      ]
+    },
+    {
+      "ilAdi": "Artvin",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9231" },
+        { "ilceAdi": "Ardanuç", "diyanetKodu": "9226" },
+        { "ilceAdi": "Arhavi", "diyanetKodu": "9227" },
+        { "ilceAdi": "Borçka", "diyanetKodu": "9228" },
+        { "ilceAdi": "Hopa", "diyanetKodu": "9229" },
+        { "ilceAdi": "Kemalpaşa", "diyanetKodu": "19409" },
+        { "ilceAdi": "Murgul", "diyanetKodu": "9230" },
+        { "ilceAdi": "Şavşat", "diyanetKodu": "9232" },
+        { "ilceAdi": "Yusufeli", "diyanetKodu": "9233" }
+      ]
+    },
+    {
+      "ilAdi": "Aydın",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9442" },
+        { "ilceAdi": "Bozdoğan", "diyanetKodu": "9430" },
+        { "ilceAdi": "Buharkent", "diyanetKodu": "9431" },
+        { "ilceAdi": "Çine", "diyanetKodu": "9432" },
+        { "ilceAdi": "Didim", "diyanetKodu": "9433" },
+        { "ilceAdi": "Efeler", "diyanetKodu": "9442" },
+        { "ilceAdi": "Germencik", "diyanetKodu": "9434" },
+        { "ilceAdi": "İncirliova", "diyanetKodu": "9435" },
+        { "ilceAdi": "Karacasu", "diyanetKodu": "9436" },
+        { "ilceAdi": "Karpuzlu", "diyanetKodu": "9437" },
+        { "ilceAdi": "Koçarlı", "diyanetKodu": "9438" },
+        { "ilceAdi": "Köşk", "diyanetKodu": "9439" },
+        { "ilceAdi": "Kuşadası", "diyanetKodu": "9440" },
+        { "ilceAdi": "Kuyucak", "diyanetKodu": "9441" },
+        { "ilceAdi": "Nazilli", "diyanetKodu": "9443" },
+        { "ilceAdi": "Söke", "diyanetKodu": "9444" },
+        { "ilceAdi": "Sultanhisar", "diyanetKodu": "9445" },
+        { "ilceAdi": "Yenipazar", "diyanetKodu": "9446" }
+      ]
+    },
+    {
+      "ilAdi": "Balıkesir",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9491" },
+        { "ilceAdi": "Altıeylül", "diyanetKodu": "9491" },
+        { "ilceAdi": "Ayvalık", "diyanetKodu": "9474" },
+        { "ilceAdi": "Balya", "diyanetKodu": "9475" },
+        { "ilceAdi": "Bandırma", "diyanetKodu": "9476" },
+        { "ilceAdi": "Bigadiç", "diyanetKodu": "9477" },
+        { "ilceAdi": "Burhaniye", "diyanetKodu": "9478" },
+        { "ilceAdi": "Dursunbey", "diyanetKodu": "9479" },
+        { "ilceAdi": "Edremit", "diyanetKodu": "9480" },
+        { "ilceAdi": "Erdek", "diyanetKodu": "9481" },
+        { "ilceAdi": "Gömeç", "diyanetKodu": "9482" },
+        { "ilceAdi": "Gönen", "diyanetKodu": "9483" },
+        { "ilceAdi": "Havran", "diyanetKodu": "9484" },
+        { "ilceAdi": "İvrindi", "diyanetKodu": "9485" },
+        { "ilceAdi": "Karesi", "diyanetKodu": "18431" },
+        { "ilceAdi": "Kepsut", "diyanetKodu": "9486" },
+        { "ilceAdi": "Manyas", "diyanetKodu": "9487" },
+        { "ilceAdi": "Marmara", "diyanetKodu": "9488" },
+        { "ilceAdi": "Savaştepe", "diyanetKodu": "9489" },
+        { "ilceAdi": "Sındırgı", "diyanetKodu": "9490" },
+        { "ilceAdi": "Susurluk", "diyanetKodu": "9492" }
+      ]
+    },
+    {
+      "ilAdi": "Bartın",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9559" },
+        { "ilceAdi": "Amasra", "diyanetKodu": "9556" },
+        { "ilceAdi": "Kurucaşile", "diyanetKodu": "9557" },
+        { "ilceAdi": "Ulus", "diyanetKodu": "9558" }
+      ]
+    },
+    {
+      "ilAdi": "Batman",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9571" },
+        { "ilceAdi": "Beşiri", "diyanetKodu": "9567" },
+        { "ilceAdi": "Gercüş", "diyanetKodu": "9568" },
+        { "ilceAdi": "Hasankeyf", "diyanetKodu": "9569" },
+        { "ilceAdi": "Kozluk", "diyanetKodu": "9570" },
+        { "ilceAdi": "Sason", "diyanetKodu": "9572" }
+      ]
+    },
+    {
+      "ilAdi": "Bayburt",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9580" },
+        { "ilceAdi": "Aydıntepe", "diyanetKodu": "9578" },
+        { "ilceAdi": "Demirözü", "diyanetKodu": "9579" }
+      ]
+    },
+    {
+      "ilAdi": "Bilecik",
+      "ilceler": [
+        { "ilceAdi": "Merkez", "diyanetKodu": "9600" },
+        { "ilceAdi": "Bozüyük", "diyanetKodu": "9595" },
+        { "ilceAdi": "Gölpazarı", "diyanetKodu": "9596" },
+        { "ilceAdi": "İnhisar", "diyanetKodu": "9597" },
+        { "ilceAdi": "Osmaneli", "diyanetKodu": "9598" },
+        { "ilceAdi": "Pazaryeri", "diyanetKodu": "9599" },
+        { "ilceAdi": "Söğüt", "diyanetKodu": "9601" },
+        { "ilceAdi": "Yenipazar", "diyanetKodu": "9602" }
+      ]
+    },
+  {
+    "ilAdi": "Bingöl",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9618" },
+      { "ilceAdi": "Adaklı", "diyanetKodu": "9613" },
+      { "ilceAdi": "Genç", "diyanetKodu": "9614" },
+      { "ilceAdi": "Karlıova", "diyanetKodu": "9615" },
+      { "ilceAdi": "Kiğı", "diyanetKodu": "9616" },
+      { "ilceAdi": "Solhan", "diyanetKodu": "9617" },
+      { "ilceAdi": "Yayladere", "diyanetKodu": "9619" },
+      { "ilceAdi": "Yedisu", "diyanetKodu": "9620" }
+    ]
+  },
+  {
+    "ilAdi": "Bitlis",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9638" },
+      { "ilceAdi": "Adilcevaz", "diyanetKodu": "9633" },
+      { "ilceAdi": "Ahlat", "diyanetKodu": "9634" },
+      { "ilceAdi": "Güroymak", "diyanetKodu": "9635" },
+      { "ilceAdi": "Hizan", "diyanetKodu": "9636" },
+      { "ilceAdi": "Mutki", "diyanetKodu": "9637" },
+      { "ilceAdi": "Tatvan", "diyanetKodu": "9639" }
+    ]
+  },
+  {
+    "ilAdi": "Bolu",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9659" },
+      { "ilceAdi": "Dörtdivan", "diyanetKodu": "9653" },
+      { "ilceAdi": "Gerede", "diyanetKodu": "9654" },
+      { "ilceAdi": "Göynük", "diyanetKodu": "9655" },
+      { "ilceAdi": "Kıbrıscık", "diyanetKodu": "9656" },
+      { "ilceAdi": "Mengen", "diyanetKodu": "9657" },
+      { "ilceAdi": "Mudurnu", "diyanetKodu": "9658" },
+      { "ilceAdi": "Seben", "diyanetKodu": "9660" },
+      { "ilceAdi": "Yeniçağa", "diyanetKodu": "9661" }
+    ]
+  },
+  {
+    "ilAdi": "Burdur",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9679" },
+      { "ilceAdi": "Ağlasun", "diyanetKodu": "9670" },
+      { "ilceAdi": "Altınyayla", "diyanetKodu": "9671" },
+      { "ilceAdi": "Bucak", "diyanetKodu": "9672" },
+      { "ilceAdi": "Çavdır", "diyanetKodu": "9673" },
+      { "ilceAdi": "Çeltikçi", "diyanetKodu": "9674" },
+      { "ilceAdi": "Gölhisar", "diyanetKodu": "9675" },
+      { "ilceAdi": "Karamanlı", "diyanetKodu": "9676" },
+      { "ilceAdi": "Kemer", "diyanetKodu": "9677" },
+      { "ilceAdi": "Tefenni", "diyanetKodu": "9678" },
+      { "ilceAdi": "Yeşilova", "diyanetKodu": "9680" }
+    ]
+  },
+  {
+    "ilAdi": "Bursa",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9706" },
+      { "ilceAdi": "Büyükorhan", "diyanetKodu": "9694" },
+      { "ilceAdi": "Gemlik", "diyanetKodu": "9695" },
+      { "ilceAdi": "Gürsu", "diyanetKodu": "9696" },
+      { "ilceAdi": "Harmancık", "diyanetKodu": "9697" },
+      { "ilceAdi": "İnegöl", "diyanetKodu": "9698" },
+      { "ilceAdi": "İznik", "diyanetKodu": "9699" },
+      { "ilceAdi": "Karacabey", "diyanetKodu": "9700" },
+      { "ilceAdi": "Keles", "diyanetKodu": "9701" },
+      { "ilceAdi": "Kestel", "diyanetKodu": "9702" },
+      { "ilceAdi": "Mudanya", "diyanetKodu": "9703" },
+      { "ilceAdi": "Mustafakemalpaşa", "diyanetKodu": "9704" },
+      { "ilceAdi": "Nilüfer", "diyanetKodu": "9705" },
+      { "ilceAdi": "Orhaneli", "diyanetKodu": "9707" },
+      { "ilceAdi": "Orhangazi", "diyanetKodu": "9708" },
+      { "ilceAdi": "Osmangazi", "diyanetKodu": "9709" },
+      { "ilceAdi": "Yenişehir", "diyanetKodu": "9710" },
+      { "ilceAdi": "Yıldırım", "diyanetKodu": "9711" }
+    ]
+  },
+  {
+    "ilAdi": "Çanakkale",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9731" },
+      { "ilceAdi": "Ayvacık", "diyanetKodu": "9720" },
+      { "ilceAdi": "Bayramiç", "diyanetKodu": "9721" },
+      { "ilceAdi": "Biga", "diyanetKodu": "9722" },
+      { "ilceAdi": "Bozcaada", "diyanetKodu": "9723" },
+      { "ilceAdi": "Çan", "diyanetKodu": "9724" },
+      { "ilceAdi": "Eceabat", "diyanetKodu": "9725" },
+      { "ilceAdi": "Ezine", "diyanetKodu": "9726" },
+      { "ilceAdi": "Gelibolu", "diyanetKodu": "9727" },
+      { "ilceAdi": "Gökçeada", "diyanetKodu": "9728" },
+      { "ilceAdi": "Lapseki", "diyanetKodu": "9729" },
+      { "ilceAdi": "Yenice", "diyanetKodu": "9730" }
+    ]
+  },
+  {
+    "ilAdi": "Çankırı",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9753" },
+      { "ilceAdi": "Atkaracalar", "diyanetKodu": "9742" },
+      { "ilceAdi": "Bayramören", "diyanetKodu": "9743" },
+      { "ilceAdi": "Çerkeş", "diyanetKodu": "9744" },
+      { "ilceAdi": "Eldivan", "diyanetKodu": "9745" },
+      { "ilceAdi": "Ilgaz", "diyanetKodu": "9746" },
+      { "ilceAdi": "Kızılırmak", "diyanetKodu": "9747" },
+      { "ilceAdi": "Korgun", "diyanetKodu": "9748" },
+      { "ilceAdi": "Kurşunlu", "diyanetKodu": "9749" },
+      { "ilceAdi": "Orta", "diyanetKodu": "9750" },
+      { "ilceAdi": "Şabanözü", "diyanetKodu": "9751" },
+      { "ilceAdi": "Yapraklı", "diyanetKodu": "9752" }
+    ]
+  },
+  {
+    "ilAdi": "Çorum",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9773" },
+      { "ilceAdi": "Alaca", "diyanetKodu": "9760" },
+      { "ilceAdi": "Bayat", "diyanetKodu": "9761" },
+      { "ilceAdi": "Boğazkale", "diyanetKodu": "9762" },
+      { "ilceAdi": "Dodurga", "diyanetKodu": "9763" },
+      { "ilceAdi": "İskilip", "diyanetKodu": "9764" },
+      { "ilceAdi": "Kargı", "diyanetKodu": "9765" },
+      { "ilceAdi": "Laçin", "diyanetKodu": "9766" },
+      { "ilceAdi": "Mecitözü", "diyanetKodu": "9767" },
+      { "ilceAdi": "Oğuzlar", "diyanetKodu": "9768" },
+      { "ilceAdi": "Ortaköy", "diyanetKodu": "9769" },
+      { "ilceAdi": "Osmancık", "diyanetKodu": "9770" },
+      { "ilceAdi": "Sungurlu", "diyanetKodu": "9771" },
+      { "ilceAdi": "Uğurludağ", "diyanetKodu": "9772" }
+    ]
+  },
+  {
+    "ilAdi": "Denizli",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9795" },
+      { "ilceAdi": "Acıpayam", "diyanetKodu": "9774" },
+      { "ilceAdi": "Babadağ", "diyanetKodu": "9775" },
+      { "ilceAdi": "Baklan", "diyanetKodu": "9776" },
+      { "ilceAdi": "Bekilli", "diyanetKodu": "9777" },
+      { "ilceAdi": "Beyağaç", "diyanetKodu": "9778" },
+      { "ilceAdi": "Bozkurt", "diyanetKodu": "9779" },
+      { "ilceAdi": "Buldan", "diyanetKodu": "9780" },
+      { "ilceAdi": "Çal", "diyanetKodu": "9781" },
+      { "ilceAdi": "Çameli", "diyanetKodu": "9782" },
+      { "ilceAdi": "Çardak", "diyanetKodu": "9783" },
+      { "ilceAdi": "Çivril", "diyanetKodu": "9784" },
+      { "ilceAdi": "Güney", "diyanetKodu": "9785" },
+      { "ilceAdi": "Honaz", "diyanetKodu": "9786" },
+      { "ilceAdi": "Kale", "diyanetKodu": "9787" },
+      { "ilceAdi": "Merkezefendi", "diyanetKodu": "18432" },
+      { "ilceAdi": "Pamukkale", "diyanetKodu": "18433" },
+      { "ilceAdi": "Sarayköy", "diyanetKodu": "9790" },
+      { "ilceAdi": "Serinhisar", "diyanetKodu": "9793" },
+      { "ilceAdi": "Tavas", "diyanetKodu": "9794" }
+    ]
+  },
+  {
+    "ilAdi": "Diyarbakır",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9814" },
+      { "ilceAdi": "Bağlar", "diyanetKodu": "9796" },
+      { "ilceAdi": "Bismil", "diyanetKodu": "9797" },
+      { "ilceAdi": "Çermik", "diyanetKodu": "9798" },
+      { "ilceAdi": "Çınar", "diyanetKodu": "9799" },
+      { "ilceAdi": "Çüngüş", "diyanetKodu": "9800" },
+      { "ilceAdi": "Dicle", "diyanetKodu": "9801" },
+      { "ilceAdi": "Eğil", "diyanetKodu": "9802" },
+      { "ilceAdi": "Ergani", "diyanetKodu": "9803" },
+      { "ilceAdi": "Hani", "diyanetKodu": "9804" },
+      { "ilceAdi": "Hazro", "diyanetKodu": "9805" },
+      { "ilceAdi": "Kayapınar", "diyanetKodu": "9806" },
+      { "ilceAdi": "Kocaköy", "diyanetKodu": "9807" },
+      { "ilceAdi": "Kulp", "diyanetKodu": "9808" },
+      { "ilceAdi": "Lice", "diyanetKodu": "9809" },
+      { "ilceAdi": "Silvan", "diyanetKodu": "9810" },
+      { "ilceAdi": "Sur", "diyanetKodu": "9811" },
+      { "ilceAdi": "Yenişehir", "diyanetKodu": "9813" }
+    ]
+  },
+  {
+    "ilAdi": "Düzce",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9821" },
+      { "ilceAdi": "Akçakoca", "diyanetKodu": "9815" },
+      { "ilceAdi": "Cumayeri", "diyanetKodu": "9816" },
+      { "ilceAdi": "Çilimli", "diyanetKodu": "9817" },
+      { "ilceAdi": "Gölyaka", "diyanetKodu": "9818" },
+      { "ilceAdi": "Gümüşova", "diyanetKodu": "9819" },
+      { "ilceAdi": "Kaynaşlı", "diyanetKodu": "9820" }
+    ]
+  },
+  {
+    "ilAdi": "Edirne",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9834" },
+      { "ilceAdi": "Enez", "diyanetKodu": "9826" },
+      { "ilceAdi": "Havsa", "diyanetKodu": "9827" },
+      { "ilceAdi": "İpsala", "diyanetKodu": "9828" },
+      { "ilceAdi": "Keşan", "diyanetKodu": "9829" },
+      { "ilceAdi": "Lalapaşa", "diyanetKodu": "9830" },
+      { "ilceAdi": "Meriç", "diyanetKodu": "9831" },
+      { "ilceAdi": "Süloğlu", "diyanetKodu": "9832" },
+      { "ilceAdi": "Uzunköprü", "diyanetKodu": "9833" }
+    ]
+  },
+  {
+    "ilAdi": "Elazığ",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9851" },
+      { "ilceAdi": "Ağın", "diyanetKodu": "9842" },
+      { "ilceAdi": "Alacakaya", "diyanetKodu": "9843" },
+      { "ilceAdi": "Arıcak", "diyanetKodu": "9844" },
+      { "ilceAdi": "Baskil", "diyanetKodu": "9845" },
+      { "ilceAdi": "Karakoçan", "diyanetKodu": "9846" },
+      { "ilceAdi": "Keban", "diyanetKodu": "9847" },
+      { "ilceAdi": "Kovancılar", "diyanetKodu": "9848" },
+      { "ilceAdi": "Maden", "diyanetKodu": "9849" },
+      { "ilceAdi": "Palu", "diyanetKodu": "9850" },
+      { "ilceAdi": "Sivrice", "diyanetKodu": "9852" }
+    ]
+  },
+  {
+    "ilAdi": "Erzincan",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9869" },
+      { "ilceAdi": "Çayırlı", "diyanetKodu": "9861" },
+      { "ilceAdi": "İliç", "diyanetKodu": "9862" },
+      { "ilceAdi": "Kemah", "diyanetKodu": "9863" },
+      { "ilceAdi": "Kemaliye", "diyanetKodu": "9864" },
+      { "ilceAdi": "Otlukbeli", "diyanetKodu": "9865" },
+      { "ilceAdi": "Refahiye", "diyanetKodu": "9866" },
+      { "ilceAdi": "Tercan", "diyanetKodu": "9867" },
+      { "ilceAdi": "Üzümlü", "diyanetKodu": "9868" }
+    ]
+  },
+  {
+    "ilAdi": "Erzurum",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9900" },
+      { "ilceAdi": "Aşkale", "diyanetKodu": "9870" },
+      { "ilceAdi": "Aziziye", "diyanetKodu": "9901" },
+      { "ilceAdi": "Çat", "diyanetKodu": "9872" },
+      { "ilceAdi": "Hınıs", "diyanetKodu": "9873" },
+      { "ilceAdi": "Horasan", "diyanetKodu": "9874" },
+      { "ilceAdi": "İspir", "diyanetKodu": "9875" },
+      { "ilceAdi": "Karaçoban", "diyanetKodu": "9876" },
+      { "ilceAdi": "Karayazı", "diyanetKodu": "9877" },
+      { "ilceAdi": "Köprüköy", "diyanetKodu": "9878" },
+      { "ilceAdi": "Narman", "diyanetKodu": "9879" },
+      { "ilceAdi": "Oltu", "diyanetKodu": "9880" },
+      { "ilceAdi": "Olur", "diyanetKodu": "9881" },
+      { "ilceAdi": "Palandöken", "diyanetKodu": "9902" },
+      { "ilceAdi": "Pasinler", "diyanetKodu": "9883" },
+      { "ilceAdi": "Pazaryolu", "diyanetKodu": "9884" },
+      { "ilceAdi": "Şenkaya", "diyanetKodu": "9885" },
+      { "ilceAdi": "Tekman", "diyanetKodu": "9886" },
+      { "ilceAdi": "Tortum", "diyanetKodu": "9887" },
+      { "ilceAdi": "Uzundere", "diyanetKodu": "9888" },
+      { "ilceAdi": "Yakutiye", "diyanetKodu": "9903" }
+    ]
+  },
+  {
+    "ilAdi": "Eskişehir",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9924" },
+      { "ilceAdi": "Alpu", "diyanetKodu": "9904" },
+      { "ilceAdi": "Beylikova", "diyanetKodu": "9905" },
+      { "ilceAdi": "Çifteler", "diyanetKodu": "9906" },
+      { "ilceAdi": "Günyüzü", "diyanetKodu": "9907" },
+      { "ilceAdi": "Han", "diyanetKodu": "9908" },
+      { "ilceAdi": "İnönü", "diyanetKodu": "9909" },
+      { "ilceAdi": "Mahmudiye", "diyanetKodu": "9910" },
+      { "ilceAdi": "Mihalgazi", "diyanetKodu": "9911" },
+      { "ilceAdi": "Mihalıççık", "diyanetKodu": "9912" },
+      { "ilceAdi": "Odunpazarı", "diyanetKodu": "9913" },
+      { "ilceAdi": "Sarıcakaya", "diyanetKodu": "9914" },
+      { "ilceAdi": "Seyitgazi", "diyanetKodu": "9915" },
+      { "ilceAdi": "Sivrihisar", "diyanetKodu": "9916" },
+      { "ilceAdi": "Tepebaşı", "diyanetKodu": "9917" }
+    ]
+  },
+  {
+    "ilAdi": "Gaziantep",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9937" },
+      { "ilceAdi": "Araban", "diyanetKodu": "9930" },
+      { "ilceAdi": "İslahiye", "diyanetKodu": "9931" },
+      { "ilceAdi": "Karkamış", "diyanetKodu": "9932" },
+      { "ilceAdi": "Nizip", "diyanetKodu": "9933" },
+      { "ilceAdi": "Nurdağı", "diyanetKodu": "9934" },
+      { "ilceAdi": "Oğuzeli", "diyanetKodu": "9935" },
+      { "ilceAdi": "Şahinbey", "diyanetKodu": "9936" },
+      { "ilceAdi": "Şehitkamil", "diyanetKodu": "9938" }
+    ]
+  },
+  {
+    "ilAdi": "Giresun",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9954" },
+      { "ilceAdi": "Alucra", "diyanetKodu": "9945" },
+      { "ilceAdi": "Bulancak", "diyanetKodu": "9946" },
+      { "ilceAdi": "Çamoluk", "diyanetKodu": "9947" },
+      { "ilceAdi": "Çanakçı", "diyanetKodu": "9948" },
+      { "ilceAdi": "Dereli", "diyanetKodu": "9949" },
+      { "ilceAdi": "Doğankent", "diyanetKodu": "9950" },
+      { "ilceAdi": "Espiye", "diyanetKodu": "9951" },
+      { "ilceAdi": "Eynesil", "diyanetKodu": "9952" },
+      { "ilceAdi": "Görele", "diyanetKodu": "9953" },
+      { "ilceAdi": "Güce", "diyanetKodu": "9955" },
+      { "ilceAdi": "Keşap", "diyanetKodu": "9956" },
+      { "ilceAdi": "Piraziz", "diyanetKodu": "9957" },
+      { "ilceAdi": "Şebinkarahisar", "diyanetKodu": "9958" },
+      { "ilceAdi": "Tirebolu", "diyanetKodu": "9959" },
+      { "ilceAdi": "Yağlıdere", "diyanetKodu": "9960" }
+    ]
+  },
+  {
+    "ilAdi": "Gümüşhane",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9971" },
+      { "ilceAdi": "Kelkit", "diyanetKodu": "9967" },
+      { "ilceAdi": "Köse", "diyanetKodu": "9968" },
+      { "ilceAdi": "Kürtün", "diyanetKodu": "9969" },
+      { "ilceAdi": "Şiran", "diyanetKodu": "9970" },
+      { "ilceAdi": "Torul", "diyanetKodu": "9972" }
+    ]
+  },
+  {
+    "ilAdi": "Hakkâri",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9981" },
+      { "ilceAdi": "Çukurca", "diyanetKodu": "9977" },
+      { "ilceAdi": "Derecik", "diyanetKodu": "19407" },
+      { "ilceAdi": "Şemdinli", "diyanetKodu": "9978" },
+      { "ilceAdi": "Yüksekova", "diyanetKodu": "9980" }
+    ]
+  },
+  {
+    "ilAdi": "Hatay",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10001" },
+      { "ilceAdi": "Altınözü", "diyanetKodu": "9982" },
+      { "ilceAdi": "Antakya", "diyanetKodu": "10001" },
+      { "ilceAdi": "Arsuz", "diyanetKodu": "18434" },
+      { "ilceAdi": "Belen", "diyanetKodu": "9983" },
+      { "ilceAdi": "Defne", "diyanetKodu": "18435" },
+      { "ilceAdi": "Dörtyol", "diyanetKodu": "9984" },
+      { "ilceAdi": "Erzin", "diyanetKodu": "9985" },
+      { "ilceAdi": "Hassa", "diyanetKodu": "9986" },
+      { "ilceAdi": "İskenderun", "diyanetKodu": "9987" },
+      { "ilceAdi": "Kırıkhan", "diyanetKodu": "9988" },
+      { "ilceAdi": "Kumlu", "diyanetKodu": "9989" },
+      { "ilceAdi": "Payas", "diyanetKodu": "18436" },
+      { "ilceAdi": "Reyhanlı", "diyanetKodu": "9990" },
+      { "ilceAdi": "Samandağ", "diyanetKodu": "9991" },
+      { "ilceAdi": "Yayladağı", "diyanetKodu": "9992" }
+    ]
+  },
+  {
+    "ilAdi": "Iğdır",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9550" },
+      { "ilceAdi": "Aralık", "diyanetKodu": "9547" },
+      { "ilceAdi": "Karakoyunlu", "diyanetKodu": "9548" },
+      { "ilceAdi": "Tuzluca", "diyanetKodu": "9549" }
+    ]
+  },
+  {
+    "ilAdi": "Isparta",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10009" },
+      { "ilceAdi": "Aksu", "diyanetKodu": "10002" },
+      { "ilceAdi": "Atabey", "diyanetKodu": "10003" },
+      { "ilceAdi": "Eğirdir", "diyanetKodu": "10004" },
+      { "ilceAdi": "Gelendost", "diyanetKodu": "10005" },
+      { "ilceAdi": "Gönen", "diyanetKodu": "10006" },
+      { "ilceAdi": "Keçiborlu", "diyanetKodu": "10007" },
+      { "ilceAdi": "Senirkent", "diyanetKodu": "10008" },
+      { "ilceAdi": "Sütçüler", "diyanetKodu": "10010" },
+      { "ilceAdi": "Şarkikaraağaç", "diyanetKodu": "10011" },
+      { "ilceAdi": "Uluborlu", "diyanetKodu": "10012" },
+      { "ilceAdi": "Yalvaç", "diyanetKodu": "10013" },
+      { "ilceAdi": "Yenişarbademli", "diyanetKodu": "10014" }
+    ]
+  },
+  {
+    "ilAdi": "İstanbul",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "9576" },
+      { "ilceAdi": "Adalar", "diyanetKodu": "9551" },
+      { "ilceAdi": "Arnavutköy", "diyanetKodu": "9552" },
+      { "ilceAdi": "Ataşehir", "diyanetKodu": "9553" },
+      { "ilceAdi": "Avcılar", "diyanetKodu": "9554" },
+      { "ilceAdi": "Bağcılar", "diyanetKodu": "9555" },
+      { "ilceAdi": "Bahçelievler", "diyanetKodu": "9560" },
+      { "ilceAdi": "Bakırköy", "diyanetKodu": "9561" },
+      { "ilceAdi": "Başakşehir", "diyanetKodu": "9562" },
+      { "ilceAdi": "Bayrampaşa", "diyanetKodu": "9563" },
+      { "ilceAdi": "Beşiktaş", "diyanetKodu": "9564" },
+      { "ilceAdi": "Beykoz", "diyanetKodu": "9565" },
+      { "ilceAdi": "Beylikdüzü", "diyanetKodu": "9566" },
+      { "ilceAdi": "Beyoğlu", "diyanetKodu": "9573" },
+      { "ilceAdi": "Büyükçekmece", "diyanetKodu": "9574" },
+      { "ilceAdi": "Çatalca", "diyanetKodu": "9575" },
+      { "ilceAdi": "Çekmeköy", "diyanetKodu": "9577" },
+      { "ilceAdi": "Esenler", "diyanetKodu": "9581" },
+      { "ilceAdi": "Esenyurt", "diyanetKodu": "9582" },
+      { "ilceAdi": "Eyüpsultan", "diyanetKodu": "9583" },
+      { "ilceAdi": "Fatih", "diyanetKodu": "9584" },
+      { "ilceAdi": "Gaziosmanpaşa", "diyanetKodu": "9585" },
+      { "ilceAdi": "Güngören", "diyanetKodu": "9586" },
+      { "ilceAdi": "Kadıköy", "diyanetKodu": "9587" },
+      { "ilceAdi": "Kağıthane", "diyanetKodu": "9588" },
+      { "ilceAdi": "Kartal", "diyanetKodu": "9589" },
+      { "ilceAdi": "Küçükçekmece", "diyanetKodu": "9590" },
+      { "ilceAdi": "Maltepe", "diyanetKodu": "9591" },
+      { "ilceAdi": "Pendik", "diyanetKodu": "9592" },
+      { "ilceAdi": "Sancaktepe", "diyanetKodu": "9593" },
+      { "ilceAdi": "Sarıyer", "diyanetKodu": "9594" },
+      { "ilceAdi": "Silivri", "diyanetKodu": "9603" },
+      { "ilceAdi": "Sultanbeyli", "diyanetKodu": "9604" },
+      { "ilceAdi": "Sultangazi", "diyanetKodu": "9605" },
+      { "ilceAdi": "Şile", "diyanetKodu": "9606" },
+      { "ilceAdi": "Şişli", "diyanetKodu": "9607" },
+      { "ilceAdi": "Tuzla", "diyanetKodu": "9608" },
+      { "ilceAdi": "Ümraniye", "diyanetKodu": "9609" },
+      { "ilceAdi": "Üsküdar", "diyanetKodu": "9610" },
+      { "ilceAdi": "Zeytinburnu", "diyanetKodu": "9611" }
+    ]
+  },
+  {
+    "ilAdi": "İzmir",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10029" },
+      { "ilceAdi": "Aliağa", "diyanetKodu": "10015" },
+      { "ilceAdi": "Balçova", "diyanetKodu": "10016" },
+      { "ilceAdi": "Bayındır", "diyanetKodu": "10017" },
+      { "ilceAdi": "Bayraklı", "diyanetKodu": "18437" },
+      { "ilceAdi": "Bergama", "diyanetKodu": "10018" },
+      { "ilceAdi": "Beydağ", "diyanetKodu": "10019" },
+      { "ilceAdi": "Bornova", "diyanetKodu": "10020" },
+      { "ilceAdi": "Buca", "diyanetKodu": "10021" },
+      { "ilceAdi": "Çeşme", "diyanetKodu": "10022" },
+      { "ilceAdi": "Çiğli", "diyanetKodu": "10023" },
+      { "ilceAdi": "Dikili", "diyanetKodu": "10024" },
+      { "ilceAdi": "Foça", "diyanetKodu": "10025" },
+      { "ilceAdi": "Gaziemir", "diyanetKodu": "10026" },
+      { "ilceAdi": "Güzelbahçe", "diyanetKodu": "10027" },
+      { "ilceAdi": "Karabağlar", "diyanetKodu": "18438" },
+      { "ilceAdi": "Karaburun", "diyanetKodu": "10028" },
+      { "ilceAdi": "Karşıyaka", "diyanetKodu": "10030" },
+      { "ilceAdi": "Kemalpaşa", "diyanetKodu": "10031" },
+      { "ilceAdi": "Kınık", "diyanetKodu": "10032" },
+      { "ilceAdi": "Kiraz", "diyanetKodu": "10033" },
+      { "ilceAdi": "Menderes", "diyanetKodu": "10034" },
+      { "ilceAdi": "Menemen", "diyanetKodu": "10035" },
+      { "ilceAdi": "Narlıdere", "diyanetKodu": "10036" },
+      { "ilceAdi": "Ödemiş", "diyanetKodu": "10037" },
+      { "ilceAdi": "Seferihisar", "diyanetKodu": "10038" },
+      { "ilceAdi": "Selçuk", "diyanetKodu": "10039" },
+      { "ilceAdi": "Tire", "diyanetKodu": "10040" },
+      { "ilceAdi": "Torbalı", "diyanetKodu": "10041" },
+      { "ilceAdi": "Urla", "diyanetKodu": "10042" }
+    ]
+  },
+  {
+    "ilAdi": "Kahramanmaraş",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10060" },
+      { "ilceAdi": "Afşin", "diyanetKodu": "10043" },
+      { "ilceAdi": "Andırın", "diyanetKodu": "10044" },
+      { "ilceAdi": "Çağlayancerit", "diyanetKodu": "10045" },
+      { "ilceAdi": "Dulkadiroğlu", "diyanetKodu": "18439" },
+      { "ilceAdi": "Ekinözü", "diyanetKodu": "10046" },
+      { "ilceAdi": "Elbistan", "diyanetKodu": "10047" },
+      { "ilceAdi": "Göksun", "diyanetKodu": "10048" },
+      { "ilceAdi": "Nurhak", "diyanetKodu": "10049" },
+      { "ilceAdi": "Onikişubat", "diyanetKodu": "18440" },
+      { "ilceAdi": "Pazarcık", "diyanetKodu": "10058" },
+      { "ilceAdi": "Türkoğlu", "diyanetKodu": "10059" }
+    ]
+  },
+  {
+    "ilAdi": "Karabük",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10066" },
+      { "ilceAdi": "Eflani", "diyanetKodu": "10061" },
+      { "ilceAdi": "Eskipazar", "diyanetKodu": "10062" },
+      { "ilceAdi": "Ovacık", "diyanetKodu": "10063" },
+      { "ilceAdi": "Safranbolu", "diyanetKodu": "10064" },
+      { "ilceAdi": "Yenice", "diyanetKodu": "10065" }
+    ]
+  },
+  {
+    "ilAdi": "Karaman",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10073" },
+      { "ilceAdi": "Ayrancı", "diyanetKodu": "10067" },
+      { "ilceAdi": "Başyayla", "diyanetKodu": "10068" },
+      { "ilceAdi": "Ermenek", "diyanetKodu": "10069" },
+      { "ilceAdi": "Kazımkarabekir", "diyanetKodu": "10070" },
+      { "ilceAdi": "Sarıveliler", "diyanetKodu": "10071" }
+    ]
+  },
+  {
+    "ilAdi": "Kars",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10082" },
+      { "ilceAdi": "Akyaka", "diyanetKodu": "10074" },
+      { "ilceAdi": "Arpaçay", "diyanetKodu": "10075" },
+      { "ilceAdi": "Digor", "diyanetKodu": "10076" },
+      { "ilceAdi": "Kağızman", "diyanetKodu": "10077" },
+      { "ilceAdi": "Sarıkamış", "diyanetKodu": "10078" },
+      { "ilceAdi": "Selim", "diyanetKodu": "10079" },
+      { "ilceAdi": "Susuz", "diyanetKodu": "10080" }
+    ]
+  },
+  {
+    "ilAdi": "Kastamonu",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10103" },
+      { "ilceAdi": "Abana", "diyanetKodu": "10083" },
+      { "ilceAdi": "Ağlı", "diyanetKodu": "10084" },
+      { "ilceAdi": "Araç", "diyanetKodu": "10085" },
+      { "ilceAdi": "Azdavay", "diyanetKodu": "10086" },
+      { "ilceAdi": "Bozkurt", "diyanetKodu": "10087" },
+      { "ilceAdi": "Cide", "diyanetKodu": "10088" },
+      { "ilceAdi": "Çatalzeytin", "diyanetKodu": "10089" },
+      { "ilceAdi": "Daday", "diyanetKodu": "10090" },
+      { "ilceAdi": "Devrekani", "diyanetKodu": "10091" },
+      { "ilceAdi": "Doğanyurt", "diyanetKodu": "10092" },
+      { "ilceAdi": "Hanonu", "diyanetKodu": "10093" },
+      { "ilceAdi": "İhsangazi", "diyanetKodu": "10094" },
+      { "ilceAdi": "İnebolu", "diyanetKodu": "10095" },
+      { "ilceAdi": "Küre", "diyanetKodu": "10096" },
+      { "ilceAdi": "Pınarbaşı", "diyanetKodu": "10097" },
+      { "ilceAdi": "Seydiler", "diyanetKodu": "10098" },
+      { "ilceAdi": "Şenpazar", "diyanetKodu": "10099" },
+      { "ilceAdi": "Taşköprü", "diyanetKodu": "10100" },
+      { "ilceAdi": "Tosya", "diyanetKodu": "10101" }
+    ]
+  },
+  {
+    "ilAdi": "Kayseri",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10121" },
+      { "ilceAdi": "Akkışla", "diyanetKodu": "10104" },
+      { "ilceAdi": "Bünyan", "diyanetKodu": "10105" },
+      { "ilceAdi": "Develi", "diyanetKodu": "10106" },
+      { "ilceAdi": "Felahiye", "diyanetKodu": "10107" },
+      { "ilceAdi": "Hacılar", "diyanetKodu": "10108" },
+      { "ilceAdi": "İncesu", "diyanetKodu": "10109" },
+      { "ilceAdi": "Kocasinan", "diyanetKodu": "10110" },
+      { "ilceAdi": "Melikgazi", "diyanetKodu": "10111" },
+      { "ilceAdi": "Özvatan", "diyanetKodu": "10112" },
+      { "ilceAdi": "Pınarbaşı", "diyanetKodu": "10113" },
+      { "ilceAdi": "Sarıoğlan", "diyanetKodu": "10114" },
+      { "ilceAdi": "Sarız", "diyanetKodu": "10115" },
+      { "ilceAdi": "Talas", "diyanetKodu": "10116" },
+      { "ilceAdi": "Tomarza", "diyanetKodu": "10117" },
+      { "ilceAdi": "Yahyalı", "diyanetKodu": "10118" },
+      { "ilceAdi": "Yeşilhisar", "diyanetKodu": "10119" }
+    ]
+  },
+  {
+    "ilAdi": "Kilis",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10126" },
+      { "ilceAdi": "Elbeyli", "diyanetKodu": "10122" },
+      { "ilceAdi": "Musabeyli", "diyanetKodu": "10123" },
+      { "ilceAdi": "Polateli", "diyanetKodu": "10124" }
+    ]
+  },
+  {
+    "ilAdi": "Kırıkkale",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10134" },
+      { "ilceAdi": "Bahşılı", "diyanetKodu": "10127" },
+      { "ilceAdi": "Balışeyh", "diyanetKodu": "10128" },
+      { "ilceAdi": "Çelebi", "diyanetKodu": "10129" },
+      { "ilceAdi": "Delice", "diyanetKodu": "10130" },
+      { "ilceAdi": "Karakeçili", "diyanetKodu": "10131" },
+      { "ilceAdi": "Keskin", "diyanetKodu": "10132" },
+      { "ilceAdi": "Sulakyurt", "diyanetKodu": "10133" },
+      { "ilceAdi": "Yahşihan", "diyanetKodu": "10135" }
+    ]
+  },
+  {
+    "ilAdi": "Kırklareli",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10143" },
+      { "ilceAdi": "Babaeski", "diyanetKodu": "10136" },
+      { "ilceAdi": "Demirköy", "diyanetKodu": "10137" },
+      { "ilceAdi": "Kofçaz", "diyanetKodu": "10138" },
+      { "ilceAdi": "Lüleburgaz", "diyanetKodu": "10139" },
+      { "ilceAdi": "Pehlivanköy", "diyanetKodu": "10140" },
+      { "ilceAdi": "Pınarhisar", "diyanetKodu": "10141" },
+      { "ilceAdi": "Vize", "diyanetKodu": "10142" }
+    ]
+  },
+  {
+    "ilAdi": "Kırşehir",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10151" },
+      { "ilceAdi": "Akçakent", "diyanetKodu": "10144" },
+      { "ilceAdi": "Akpınar", "diyanetKodu": "10145" },
+      { "ilceAdi": "Boztepe", "diyanetKodu": "10146" },
+      { "ilceAdi": "Çiçekdağı", "diyanetKodu": "10147" },
+      { "ilceAdi": "Kaman", "diyanetKodu": "10148" },
+      { "ilceAdi": "Mucur", "diyanetKodu": "10149" }
+    ]
+  },
+  {
+    "ilAdi": "Kocaeli",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10164" },
+      { "ilceAdi": "Başiskele", "diyanetKodu": "18441" },
+      { "ilceAdi": "Çayırova", "diyanetKodu": "18442" },
+      { "ilceAdi": "Darıca", "diyanetKodu": "18443" },
+      { "ilceAdi": "Derince", "diyanetKodu": "10153" },
+      { "ilceAdi": "Dilovası", "diyanetKodu": "18444" },
+      { "ilceAdi": "Gebze", "diyanetKodu": "10154" },
+      { "ilceAdi": "Gölcük", "diyanetKodu": "10155" },
+      { "ilceAdi": "İzmit", "diyanetKodu": "10164" },
+      { "ilceAdi": "Kandıra", "diyanetKodu": "10157" },
+      { "ilceAdi": "Karamürsel", "diyanetKodu": "10158" },
+      { "ilceAdi": "Kartepe", "diyanetKodu": "18445" },
+      { "ilceAdi": "Körfez", "diyanetKodu": "10160" }
+    ]
+  },
+  {
+    "ilAdi": "Konya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10190" },
+      { "ilceAdi": "Ahırlı", "diyanetKodu": "10165" },
+      { "ilceAdi": "Akören", "diyanetKodu": "10166" },
+      { "ilceAdi": "Akşehir", "diyanetKodu": "10167" },
+      { "ilceAdi": "Altınekin", "diyanetKodu": "10168" },
+      { "ilceAdi": "Beyşehir", "diyanetKodu": "10169" },
+      { "ilceAdi": "Bozkır", "diyanetKodu": "10170" },
+      { "ilceAdi": "Cihanbeyli", "diyanetKodu": "10171" },
+      { "ilceAdi": "Çeltik", "diyanetKodu": "10172" },
+      { "ilceAdi": "Çumra", "diyanetKodu": "10173" },
+      { "ilceAdi": "Derbent", "diyanetKodu": "10174" },
+      { "ilceAdi": "Derebucak", "diyanetKodu": "10175" },
+      { "ilceAdi": "Doğanhisar", "diyanetKodu": "10176" },
+      { "ilceAdi": "Emirgazi", "diyanetKodu": "10177" },
+      { "ilceAdi": "Ereğli", "diyanetKodu": "10178" },
+      { "ilceAdi": "Güneysınır", "diyanetKodu": "10179" },
+      { "ilceAdi": "Hadim", "diyanetKodu": "10180" },
+      { "ilceAdi": "Halkapınar", "diyanetKodu": "10181" },
+      { "ilceAdi": "Hüyük", "diyanetKodu": "10182" },
+      { "ilceAdi": "Ilgın", "diyanetKodu": "10183" },
+      { "ilceAdi": "Kadınhanı", "diyanetKodu": "10184" },
+      { "ilceAdi": "Karapınar", "diyanetKodu": "10185" },
+      { "ilceAdi": "Karatay", "diyanetKodu": "10186" },
+      { "ilceAdi": "Kulu", "diyanetKodu": "10187" },
+      { "ilceAdi": "Meram", "diyanetKodu": "10188" },
+      { "ilceAdi": "Sarayönü", "diyanetKodu": "10189" },
+      { "ilceAdi": "Selçuklu", "diyanetKodu": "10191" },
+      { "ilceAdi": "Seydişehir", "diyanetKodu": "10192" },
+      { "ilceAdi": "Taşkent", "diyanetKodu": "10193" },
+      { "ilceAdi": "Tuzlukçu", "diyanetKodu": "10194" },
+      { "ilceAdi": "Yalıhüyük", "diyanetKodu": "10195" },
+      { "ilceAdi": "Yunak", "diyanetKodu": "10196" }
+    ]
+  },
+  {
+    "ilAdi": "Kütahya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10214" },
+      { "ilceAdi": "Altıntaş", "diyanetKodu": "10197" },
+      { "ilceAdi": "Aslanapa", "diyanetKodu": "10198" },
+      { "ilceAdi": "Çavdarhisar", "diyanetKodu": "10199" },
+      { "ilceAdi": "Domaniç", "diyanetKodu": "10200" },
+      { "ilceAdi": "Dumlupınar", "diyanetKodu": "10201" },
+      { "ilceAdi": "Emet", "diyanetKodu": "10202" },
+      { "ilceAdi": "Gediz", "diyanetKodu": "10203" },
+      { "ilceAdi": "Hisarcık", "diyanetKodu": "10204" },
+      { "ilceAdi": "Pazarlar", "diyanetKodu": "10205" },
+      { "ilceAdi": "Simav", "diyanetKodu": "10211" },
+      { "ilceAdi": "Şaphane", "diyanetKodu": "10212" },
+      { "ilceAdi": "Tavşanlı", "diyanetKodu": "10213" }
+    ]
+  },
+  {
+    "ilAdi": "Malatya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10229" },
+      { "ilceAdi": "Akçadağ", "diyanetKodu": "10215" },
+      { "ilceAdi": "Arapgir", "diyanetKodu": "10216" },
+      { "ilceAdi": "Arguvan", "diyanetKodu": "10217" },
+      { "ilceAdi": "Battalgazi", "diyanetKodu": "10218" },
+      { "ilceAdi": "Darende", "diyanetKodu": "10219" },
+      { "ilceAdi": "Doğanşehir", "diyanetKodu": "10220" },
+      { "ilceAdi": "Doğanyol", "diyanetKodu": "10221" },
+      { "ilceAdi": "Hekimhan", "diyanetKodu": "10222" },
+      { "ilceAdi": "Kale", "diyanetKodu": "10223" },
+      { "ilceAdi": "Kuluncak", "diyanetKodu": "10224" },
+      { "ilceAdi": "Pütürge", "diyanetKodu": "10225" },
+      { "ilceAdi": "Yazıhan", "diyanetKodu": "10227" },
+      { "ilceAdi": "Yeşilyurt", "diyanetKodu": "10228" }
+    ]
+  },
+  {
+    "ilAdi": "Manisa",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10252" },
+      { "ilceAdi": "Ahmetli", "diyanetKodu": "10230" },
+      { "ilceAdi": "Akhisar", "diyanetKodu": "10231" },
+      { "ilceAdi": "Alaşehir", "diyanetKodu": "10232" },
+      { "ilceAdi": "Demirci", "diyanetKodu": "10233" },
+      { "ilceAdi": "Gölmarmara", "diyanetKodu": "10234" },
+      { "ilceAdi": "Gördes", "diyanetKodu": "10235" },
+      { "ilceAdi": "Kırkağaç", "diyanetKodu": "10236" },
+      { "ilceAdi": "Köprübaşı", "diyanetKodu": "10237" },
+      { "ilceAdi": "Kula", "diyanetKodu": "10238" },
+      { "ilceAdi": "Salihli", "diyanetKodu": "10239" },
+      { "ilceAdi": "Sarıgöl", "diyanetKodu": "10240" },
+      { "ilceAdi": "Saruhanlı", "diyanetKodu": "10241" },
+      { "ilceAdi": "Selendi", "diyanetKodu": "10242" },
+      { "ilceAdi": "Soma", "diyanetKodu": "10243" },
+      { "ilceAdi": "Şehzadeler", "diyanetKodu": "18446" },
+      { "ilceAdi": "Turgutlu", "diyanetKodu": "10245" },
+      { "ilceAdi": "Yunusemre", "diyanetKodu": "18447" }
+    ]
+  },
+  {
+    "ilAdi": "Mardin",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10265" },
+      { "ilceAdi": "Artuklu", "diyanetKodu": "18448" },
+      { "ilceAdi": "Dargeçit", "diyanetKodu": "10253" },
+      { "ilceAdi": "Derik", "diyanetKodu": "10254" },
+      { "ilceAdi": "Kızıltepe", "diyanetKodu": "10255" },
+      { "ilceAdi": "Mazıdağı", "diyanetKodu": "10256" },
+      { "ilceAdi": "Midyat", "diyanetKodu": "10257" },
+      { "ilceAdi": "Nusaybin", "diyanetKodu": "10258" },
+      { "ilceAdi": "Ömerli", "diyanetKodu": "10259" },
+      { "ilceAdi": "Savur", "diyanetKodu": "10260" },
+      { "ilceAdi": "Yeşilli", "diyanetKodu": "10261" }
+    ]
+  },
+  {
+    "ilAdi": "Mersin",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10283" },
+      { "ilceAdi": "Akdeniz", "diyanetKodu": "18449" },
+      { "ilceAdi": "Anamur", "diyanetKodu": "10266" },
+      { "ilceAdi": "Aydıncık", "diyanetKodu": "10267" },
+      { "ilceAdi": "Bozyazı", "diyanetKodu": "10268" },
+      { "ilceAdi": "Çamlıyayla", "diyanetKodu": "10269" },
+      { "ilceAdi": "Erdemli", "diyanetKodu": "10270" },
+      { "ilceAdi": "Gülnar", "diyanetKodu": "10271" },
+      { "ilceAdi": "Mezitli", "diyanetKodu": "18450" },
+      { "ilceAdi": "Mut", "diyanetKodu": "10274" },
+      { "ilceAdi": "Silifke", "diyanetKodu": "10275" },
+      { "ilceAdi": "Tarsus", "diyanetKodu": "10276" },
+      { "ilceAdi": "Toroslar", "diyanetKodu": "18451" },
+      { "ilceAdi": "Yenişehir", "diyanetKodu": "18452" }
+    ]
+  },
+  {
+    "ilAdi": "Muğla",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10301" },
+      { "ilceAdi": "Bodrum", "diyanetKodu": "10284" },
+      { "ilceAdi": "Dalaman", "diyanetKodu": "10285" },
+      { "ilceAdi": "Datça", "diyanetKodu": "10286" },
+      { "ilceAdi": "Fethiye", "diyanetKodu": "10287" },
+      { "ilceAdi": "Kavaklıdere", "diyanetKodu": "10288" },
+      { "ilceAdi": "Köyceğiz", "diyanetKodu": "10289" },
+      { "ilceAdi": "Marmaris", "diyanetKodu": "10290" },
+      { "ilceAdi": "Menteşe", "diyanetKodu": "18453" },
+      { "ilceAdi": "Milas", "diyanetKodu": "10292" },
+      { "ilceAdi": "Ortaca", "diyanetKodu": "10293" },
+      { "ilceAdi": "Seydikemer", "diyanetKodu": "18454" },
+      { "ilceAdi": "Ula", "diyanetKodu": "10299" },
+      { "ilceAdi": "Yatağan", "diyanetKodu": "10300" }
+    ]
+  },
+  {
+    "ilAdi": "Muş",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10309" },
+      { "ilceAdi": "Bulanık", "diyanetKodu": "10304" },
+      { "ilceAdi": "Hasköy", "diyanetKodu": "10305" },
+      { "ilceAdi": "Korkut", "diyanetKodu": "10306" },
+      { "ilceAdi": "Malazgirt", "diyanetKodu": "10307" },
+      { "ilceAdi": "Varto", "diyanetKodu": "10308" }
+    ]
+  },
+  {
+    "ilAdi": "Nevşehir",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10319" },
+      { "ilceAdi": "Acıgöl", "diyanetKodu": "10310" },
+      { "ilceAdi": "Avanos", "diyanetKodu": "10311" },
+      { "ilceAdi": "Derinkuyu", "diyanetKodu": "10312" },
+      { "ilceAdi": "Gülşehir", "diyanetKodu": "10313" },
+      { "ilceAdi": "Hacıbektaş", "diyanetKodu": "10314" },
+      { "ilceAdi": "Kozaklı", "diyanetKodu": "10315" },
+      { "ilceAdi": "Ürgüp", "diyanetKodu": "10316" }
+    ]
+  },
+  {
+    "ilAdi": "Niğde",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10328" },
+      { "ilceAdi": "Altunhisar", "diyanetKodu": "10323" },
+      { "ilceAdi": "Bor", "diyanetKodu": "10324" },
+      { "ilceAdi": "Çamardı", "diyanetKodu": "10325" },
+      { "ilceAdi": "Çiftlik", "diyanetKodu": "10326" },
+      { "ilceAdi": "Ulukışla", "diyanetKodu": "10327" }
+    ]
+  },
+  {
+    "ilAdi": "Ordu",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10352" },
+      { "ilceAdi": "Akkuş", "diyanetKodu": "10329" },
+      { "ilceAdi": "Altınordu", "diyanetKodu": "18455" },
+      { "ilceAdi": "Aybastı", "diyanetKodu": "10330" },
+      { "ilceAdi": "Çamaş", "diyanetKodu": "10331" },
+      { "ilceAdi": "Çatalpınar", "diyanetKodu": "10332" },
+      { "ilceAdi": "Çaybaşı", "diyanetKodu": "10333" },
+      { "ilceAdi": "Fatsa", "diyanetKodu": "10334" },
+      { "ilceAdi": "Gölköy", "diyanetKodu": "10335" },
+      { "ilceAdi": "Gülyalı", "diyanetKodu": "10336" },
+      { "ilceAdi": "Gürgentepe", "diyanetKodu": "10337" },
+      { "ilceAdi": "İkizce", "diyanetKodu": "10338" },
+      { "ilceAdi": "Kabadüz", "diyanetKodu": "10339" },
+      { "ilceAdi": "Kabataş", "diyanetKodu": "10340" },
+      { "ilceAdi": "Korgan", "diyanetKodu": "10341" },
+      { "ilceAdi": "Kumru", "diyanetKodu": "10342" },
+      { "ilceAdi": "Mesudiye", "diyanetKodu": "10343" },
+      { "ilceAdi": "Perşembe", "diyanetKodu": "10344" },
+      { "ilceAdi": "Ulubey", "diyanetKodu": "10345" },
+      { "ilceAdi": "Ünye", "diyanetKodu": "10346" }
+    ]
+  },
+  {
+    "ilAdi": "Osmaniye",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10357" },
+      { "ilceAdi": "Bahçe", "diyanetKodu": "10353" },
+      { "ilceAdi": "Düziçi", "diyanetKodu": "10354" },
+      { "ilceAdi": "Hasanbeyli", "diyanetKodu": "10355" },
+      { "ilceAdi": "Kadirli", "diyanetKodu": "10356" },
+      { "ilceAdi": "Sumbas", "diyanetKodu": "10358" },
+      { "ilceAdi": "Toprakkale", "diyanetKodu": "10359" }
+    ]
+  },
+  {
+    "ilAdi": "Rize",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10375" },
+      { "ilceAdi": "Ardeşen", "diyanetKodu": "10360" },
+      { "ilceAdi": "Çamlıhemşin", "diyanetKodu": "10361" },
+      { "ilceAdi": "Çayeli", "diyanetKodu": "10362" },
+      { "ilceAdi": "Derepazarı", "diyanetKodu": "10363" },
+      { "ilceAdi": "Fındıklı", "diyanetKodu": "10364" },
+      { "ilceAdi": "Güneysu", "diyanetKodu": "10365" },
+      { "ilceAdi": "Hemşin", "diyanetKodu": "10366" },
+      { "ilceAdi": "İkizdere", "diyanetKodu": "10367" },
+      { "ilceAdi": "İyidere", "diyanetKodu": "10368" },
+      { "ilceAdi": "Kalkandere", "diyanetKodu": "10369" },
+      { "ilceAdi": "Pazar", "diyanetKodu": "10370" }
+    ]
+  },
+  {
+    "ilAdi": "Sakarya",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10393" },
+      { "ilceAdi": "Adapazarı", "diyanetKodu": "18456" },
+      { "ilceAdi": "Akyazı", "diyanetKodu": "10376" },
+      { "ilceAdi": "Arifiye", "diyanetKodu": "18457" },
+      { "ilceAdi": "Erenler", "diyanetKodu": "18458" },
+      { "ilceAdi": "Ferizli", "diyanetKodu": "10377" },
+      { "ilceAdi": "Geyve", "diyanetKodu": "10378" },
+      { "ilceAdi": "Hendek", "diyanetKodu": "10379" },
+      { "ilceAdi": "Karapürçek", "diyanetKodu": "10380" },
+      { "ilceAdi": "Karasu", "diyanetKodu": "10381" },
+      { "ilceAdi": "Kaynarca", "diyanetKodu": "10382" },
+      { "ilceAdi": "Kocaali", "diyanetKodu": "10383" },
+      { "ilceAdi": "Pamukova", "diyanetKodu": "10384" },
+      { "ilceAdi": "Sapanca", "diyanetKodu": "10385" },
+      { "ilceAdi": "Serdivan", "diyanetKodu": "18459" },
+      { "ilceAdi": "Söğütlü", "diyanetKodu": "10387" },
+      { "ilceAdi": "Taraklı", "diyanetKodu": "10388" }
+    ]
+  },
+  {
+    "ilAdi": "Samsun",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10411" },
+      { "ilceAdi": "19 Mayıs", "diyanetKodu": "10394" },
+      { "ilceAdi": "Alaçam", "diyanetKodu": "10395" },
+      { "ilceAdi": "Asarcık", "diyanetKodu": "10396" },
+      { "ilceAdi": "Atakum", "diyanetKodu": "18460" },
+      { "ilceAdi": "Ayvacık", "diyanetKodu": "10397" },
+      { "ilceAdi": "Bafra", "diyanetKodu": "10398" },
+      { "ilceAdi": "Canik", "diyanetKodu": "18461" },
+      { "ilceAdi": "Çarşamba", "diyanetKodu": "10400" },
+      { "ilceAdi": "Havza", "diyanetKodu": "10401" },
+      { "ilceAdi": "İlkadım", "diyanetKodu": "18462" },
+      { "ilceAdi": "Kavak", "diyanetKodu": "10403" },
+      { "ilceAdi": "Ladik", "diyanetKodu": "10404" },
+      { "ilceAdi": "Salıpazarı", "diyanetKodu": "10405" },
+      { "ilceAdi": "Tekkeköy", "diyanetKodu": "10406" },
+      { "ilceAdi": "Terme", "diyanetKodu": "10407" },
+      { "ilceAdi": "Vezirköprü", "diyanetKodu": "10408" },
+      { "ilceAdi": "Yakakent", "diyanetKodu": "10409" }
+    ]
+  },
+  {
+    "ilAdi": "Siirt",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10424" },
+      { "ilceAdi": "Aydınlar", "diyanetKodu": "10419" },
+      { "ilceAdi": "Baykan", "diyanetKodu": "10412" },
+      { "ilceAdi": "Eruh", "diyanetKodu": "10413" },
+      { "ilceAdi": "Kurtalan", "diyanetKodu": "10414" },
+      { "ilceAdi": "Pervari", "diyanetKodu": "10415" },
+      { "ilceAdi": "Şirvan", "diyanetKodu": "10416" }
+    ]
+  },
+  {
+    "ilAdi": "Sinop",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10437" },
+      { "ilceAdi": "Ayancık", "diyanetKodu": "10425" },
+      { "ilceAdi": "Boyabat", "diyanetKodu": "10426" },
+      { "ilceAdi": "Dikmen", "diyanetKodu": "10427" },
+      { "ilceAdi": "Durağan", "diyanetKodu": "10428" },
+      { "ilceAdi": "Erfelek", "diyanetKodu": "10429" },
+      { "ilceAdi": "Gerze", "diyanetKodu": "10430" },
+      { "ilceAdi": "Saraydüzü", "diyanetKodu": "10431" },
+      { "ilceAdi": "Türkeli", "diyanetKodu": "10432" }
+    ]
+  },
+  {
+    "ilAdi": "Sivas",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10462" },
+      { "ilceAdi": "Akıncılar", "diyanetKodu": "10438" },
+      { "ilceAdi": "Altınyayla", "diyanetKodu": "10439" },
+      { "ilceAdi": "Divriği", "diyanetKodu": "10440" },
+      { "ilceAdi": "Doğanşar", "diyanetKodu": "10441" },
+      { "ilceAdi": "Gemerek", "diyanetKodu": "10442" },
+      { "ilceAdi": "Gölova", "diyanetKodu": "10443" },
+      { "ilceAdi": "Gürün", "diyanetKodu": "10444" },
+      { "ilceAdi": "Hafik", "diyanetKodu": "10445" },
+      { "ilceAdi": "İmranlı", "diyanetKodu": "10446" },
+      { "ilceAdi": "Kangal", "diyanetKodu": "10447" },
+      { "ilceAdi": "Koyulhisar", "diyanetKodu": "10448" },
+      { "ilceAdi": "Suşehri", "diyanetKodu": "10453" },
+      { "ilceAdi": "Şarkışla", "diyanetKodu": "10454" },
+      { "ilceAdi": "Ulaş", "diyanetKodu": "10455" },
+      { "ilceAdi": "Yıldızeli", "diyanetKodu": "10456" },
+      { "ilceAdi": "Zara", "diyanetKodu": "10457" }
+    ]
+  },
+  {
+    "ilAdi": "Şanlıurfa",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10477" },
+      { "ilceAdi": "Akçakale", "diyanetKodu": "10463" },
+      { "ilceAdi": "Birecik", "diyanetKodu": "10464" },
+      { "ilceAdi": "Bozova", "diyanetKodu": "10465" },
+      { "ilceAdi": "Ceylanpınar", "diyanetKodu": "10466" },
+      { "ilceAdi": "Eyyübiye", "diyanetKodu": "18463" },
+      { "ilceAdi": "Halfeti", "diyanetKodu": "10467" },
+      { "ilceAdi": "Haliliye", "diyanetKodu": "18464" },
+      { "ilceAdi": "Harran", "diyanetKodu": "10468" },
+      { "ilceAdi": "Hilvan", "diyanetKodu": "10469" },
+      { "ilceAdi": "Karaköprü", "diyanetKodu": "18465" },
+      { "ilceAdi": "Siverek", "diyanetKodu": "10472" },
+      { "ilceAdi": "Suruç", "diyanetKodu": "10473" },
+      { "ilceAdi": "Viranşehir", "diyanetKodu": "10474" }
+    ]
+  },
+  {
+    "ilAdi": "Şırnak",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10485" },
+      { "ilceAdi": "Beytüşşebap", "diyanetKodu": "10478" },
+      { "ilceAdi": "Cizre", "diyanetKodu": "10479" },
+      { "ilceAdi": "Güçlükonak", "diyanetKodu": "10480" },
+      { "ilceAdi": "İdil", "diyanetKodu": "10481" },
+      { "ilceAdi": "Silopi", "diyanetKodu": "10482" },
+      { "ilceAdi": "Uludere", "diyanetKodu": "10483" }
+    ]
+  },
+  {
+    "ilAdi": "Tekirdağ",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10502" },
+      { "ilceAdi": "Çerkezköy", "diyanetKodu": "10486" },
+      { "ilceAdi": "Çorlu", "diyanetKodu": "10487" },
+      { "ilceAdi": "Ergene", "diyanetKodu": "18466" },
+      { "ilceAdi": "Hayrabolu", "diyanetKodu": "10488" },
+      { "ilceAdi": "Kapaklı", "diyanetKodu": "18467" },
+      { "ilceAdi": "Malkara", "diyanetKodu": "10489" },
+      { "ilceAdi": "Marmaraereğlisi", "diyanetKodu": "10490" },
+      { "ilceAdi": "Muratlı", "diyanetKodu": "10491" },
+      { "ilceAdi": "Saray", "diyanetKodu": "10492" },
+      { "ilceAdi": "Süleymanpaşa", "diyanetKodu": "18468" },
+      { "ilceAdi": "Şarköy", "diyanetKodu": "10494" }
+    ]
+  },
+  {
+    "ilAdi": "Tokat",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10523" },
+      { "ilceAdi": "Almus", "diyanetKodu": "10503" },
+      { "ilceAdi": "Artova", "diyanetKodu": "10504" },
+      { "ilceAdi": "Başçiftlik", "diyanetKodu": "10505" },
+      { "ilceAdi": "Erbaa", "diyanetKodu": "10506" },
+      { "ilceAdi": "Niksar", "diyanetKodu": "10507" },
+      { "ilceAdi": "Pazar", "diyanetKodu": "10508" },
+      { "ilceAdi": "Reşadiye", "diyanetKodu": "10509" },
+      { "ilceAdi": "Sulusaray", "diyanetKodu": "10510" },
+      { "ilceAdi": "Turhal", "diyanetKodu": "10511" },
+      { "ilceAdi": "Yeşilyurt", "diyanetKodu": "10512" },
+      { "ilceAdi": "Zile", "diyanetKodu": "10513" }
+    ]
+  },
+  {
+    "ilAdi": "Trabzon",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10543" },
+      { "ilceAdi": "Akçaabat", "diyanetKodu": "10524" },
+      { "ilceAdi": "Araklı", "diyanetKodu": "10525" },
+      { "ilceAdi": "Arsin", "diyanetKodu": "10526" },
+      { "ilceAdi": "Beşikdüzü", "diyanetKodu": "10527" },
+      { "ilceAdi": "Çarşıbaşı", "diyanetKodu": "10528" },
+      { "ilceAdi": "Çaykara", "diyanetKodu": "10529" },
+      { "ilceAdi": "Dernekpazarı", "diyanetKodu": "10530" },
+      { "ilceAdi": "Düzköy", "diyanetKodu": "10531" },
+      { "ilceAdi": "Hayrat", "diyanetKodu": "10532" },
+      { "ilceAdi": "Köprübaşı", "diyanetKodu": "10533" },
+      { "ilceAdi": "Maçka", "diyanetKodu": "10534" },
+      { "ilceAdi": "Of", "diyanetKodu": "10535" },
+      { "ilceAdi": "Ortahisar", "diyanetKodu": "18469" },
+      { "ilceAdi": "Sürmene", "diyanetKodu": "10537" },
+      { "ilceAdi": "Şalpazarı", "diyanetKodu": "10538" },
+      { "ilceAdi": "Tonya", "diyanetKodu": "10539" },
+      { "ilceAdi": "Vakfıkebir", "diyanetKodu": "10540" },
+      { "ilceAdi": "Yomra", "diyanetKodu": "10541" }
+    ]
+  },
+  {
+    "ilAdi": "Tunceli",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10552" },
+      { "ilceAdi": "Çemişgezek", "diyanetKodu": "10544" },
+      { "ilceAdi": "Hozat", "diyanetKodu": "10545" },
+      { "ilceAdi": "Mazgirt", "diyanetKodu": "10546" },
+      { "ilceAdi": "Nazımiye", "diyanetKodu": "10547" },
+      { "ilceAdi": "Ovacık", "diyanetKodu": "10548" },
+      { "ilceAdi": "Pertek", "diyanetKodu": "10549" },
+      { "ilceAdi": "Pülümür", "diyanetKodu": "10550" }
+    ]
+  },
+  {
+    "ilAdi": "Uşak",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10561" },
+      { "ilceAdi": "Banaz", "diyanetKodu": "10553" },
+      { "ilceAdi": "Eşme", "diyanetKodu": "10554" },
+      { "ilceAdi": "Karahallı", "diyanetKodu": "10555" },
+      { "ilceAdi": "Sivaslı", "diyanetKodu": "10556" },
+      { "ilceAdi": "Ulubey", "diyanetKodu": "10557" }
+    ]
+  },
+  {
+    "ilAdi": "Van",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10577" },
+      { "ilceAdi": "Bahçesaray", "diyanetKodu": "10562" },
+      { "ilceAdi": "Başkale", "diyanetKodu": "10563" },
+      { "ilceAdi": "Çaldıran", "diyanetKodu": "10564" },
+      { "ilceAdi": "Çatak", "diyanetKodu": "10565" },
+      { "ilceAdi": "Edremit", "diyanetKodu": "10566" },
+      { "ilceAdi": "Erciş", "diyanetKodu": "10567" },
+      { "ilceAdi": "Gevaş", "diyanetKodu": "10568" },
+      { "ilceAdi": "Gürpınar", "diyanetKodu": "10569" },
+      { "ilceAdi": "İpekyolu", "diyanetKodu": "18470" },
+      { "ilceAdi": "Muradiye", "diyanetKodu": "10571" },
+      { "ilceAdi": "Özalp", "diyanetKodu": "10572" },
+      { "ilceAdi": "Saray", "diyanetKodu": "10573" },
+      { "ilceAdi": "Tuşba", "diyanetKodu": "18471" }
+    ]
+  },
+  {
+    "ilAdi": "Yalova",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10584" },
+      { "ilceAdi": "Altınova", "diyanetKodu": "10578" },
+      { "ilceAdi": "Armutlu", "diyanetKodu": "10579" },
+      { "ilceAdi": "Çınarcık", "diyanetKodu": "10580" },
+      { "ilceAdi": "Çiftlikköy", "diyanetKodu": "10581" },
+      { "ilceAdi": "Termal", "diyanetKodu": "10582" }
+    ]
+  },
+  {
+    "ilAdi": "Yozgat",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10603" },
+      { "ilceAdi": "Akdağmadeni", "diyanetKodu": "10585" },
+      { "ilceAdi": "Aydıncık", "diyanetKodu": "10586" },
+      { "ilceAdi": "Boğazlıyan", "diyanetKodu": "10587" },
+      { "ilceAdi": "Çandır", "diyanetKodu": "10588" },
+      { "ilceAdi": "Çayıralan", "diyanetKodu": "10589" },
+      { "ilceAdi": "Çekerek", "diyanetKodu": "10590" },
+      { "ilceAdi": "Kadışehri", "diyanetKodu": "10591" },
+      { "ilceAdi": "Saraykent", "diyanetKodu": "10592" },
+      { "ilceAdi": "Sarıkaya", "diyanetKodu": "10593" },
+      { "ilceAdi": "Sorgun", "diyanetKodu": "10594" },
+      { "ilceAdi": "Şefaatli", "diyanetKodu": "10595" },
+      { "ilceAdi": "Yenifakılı", "diyanetKodu": "10596" },
+      { "ilceAdi": "Yerköy", "diyanetKodu": "10597" }
+    ]
+  },
+  {
+    "ilAdi": "Zonguldak",
+    "ilceler": [
+      { "ilceAdi": "Merkez", "diyanetKodu": "10613" },
+      { "ilceAdi": "Alaplı", "diyanetKodu": "10604" },
+      { "ilceAdi": "Çaycuma", "diyanetKodu": "10605" },
+      { "ilceAdi": "Devrek", "diyanetKodu": "10606" },
+      { "ilceAdi": "Ereğli", "diyanetKodu": "10607" },
+      { "ilceAdi": "Gökçebey", "diyanetKodu": "10608" },
+      { "ilceAdi": "Kilimli", "diyanetKodu": "18472" },
+      { "ilceAdi": "Kozlu", "diyanetKodu": "18473" }
+    ]
+  }
+]

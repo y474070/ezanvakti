@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+DÜZELTME: Android 12+ cihaz-cihaz aktarımı ve bulut yedeklemesinden
+"EzanVaktiPrefs" SharedPreferences dosyasını hariç tutuyoruz.
+Neden: Test sırasında farklı cihazlarda/kurulumlarda kaydedilen eski
+şehir seçimleri (ör. "Osmaniye, Bahçe"), yeni bir kurulumda Google hesabı
+üzerinden otomatik geri yükleniyor ve kullanıcıyı hiç seçmediği bir
+şehirle karşılaştırıp kafa karıştırıyordu.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="EzanVaktiPrefs.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="EzanVaktiPrefs.xml" />
+    </device-transfer>
+</data-extraction-rules>

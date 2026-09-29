@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingStart="12dp"
+    android:paddingEnd="12dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <ImageView
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginEnd="10dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <!-- DÜZELTME: Sistem yazı boyutu büyütüldüğünde ("İmsak: 04:..." gibi
+             kesilme) metin artık kesilmiyor — kesilmek yerine 2 satıra kadar
+             kayabiliyor (maxLines/ellipsize kaldırıldı, genişlik match_parent
+             yapıldı ki asıl kısıtlayıcı olan parent'ın weight'i belirlesin).
+             DÜZELTME: textColor artık Kotlin tarafında (EzanBildirimServisi)
+             sistemin gece/gündüz durumuna göre programatik olarak
+             ayarlanıyor — buradaki değer sadece yedek/varsayılan. -->
+        <TextView
+            android:id="@+id/bildirim_baslik"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:maxLines="2" />
+
+        <!-- DÜZELTME: Chronometer sadece sayı/saat formatı gösterebilir, serbest
+             metin ("Lütfen Ayarlar'dan şehir seçin" gibi) gösteremez. Bu yüzden
+             yedek bir metin alanı da ekliyoruz — ikisinden sadece biri
+             görünür durumda tutulacak (durum bilgisi mi, sayaç mı). -->
+        <TextView
+            android:id="@+id/bildirim_bilgi_metni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#CBD5E1"
+            android:textSize="12sp"
+            android:maxLines="2"
+            android:visibility="gone" />
+
+        <Chronometer
+            android:id="@+id/bildirim_sayac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#34D399"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:format="%s kaldı" />
+    </LinearLayout>
+</LinearLayout>
